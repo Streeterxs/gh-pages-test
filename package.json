@@ -2,6 +2,7 @@
   "name": "gh-pages-test",
   "version": "0.1.0",
   "private": true,
+  "homepage": "./",
   "main": "./build/index",
   "dependencies": {
     "@jamesives/github-pages-deploy-action": "^4.1.5",
